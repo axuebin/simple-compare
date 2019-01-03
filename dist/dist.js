@@ -26,7 +26,7 @@ var cVersion = function cVersion(v1, v2) {
 };
 
 var index = {
-  cVersion: cVersion
+  cVersion
 };
 
 module.exports = index;

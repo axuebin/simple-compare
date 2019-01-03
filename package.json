@@ -1,5 +1,5 @@
 {
-  "name": "simple-compare",
+  "name": "simple-js-compare",
   "version": "1.0.0",
   "description": "JavaScript 比较工具库",
   "main": "index.js",
